@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "X1ffUY9+V9ufjueO6ensk4uzwYAHgmxxSqNXRbg29rM=",
+  "Source": "Micro.RoomLink.APIGateway",
+  "BasePath": "_content/Micro.RoomLink.APIGateway",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

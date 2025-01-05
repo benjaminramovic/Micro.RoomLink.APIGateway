@@ -1,0 +1,6 @@
+@Micro.RoomLink.APIGateway_HostAddress = http://localhost:5294
+
+GET {{Micro.RoomLink.APIGateway_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
