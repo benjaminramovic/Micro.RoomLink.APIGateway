@@ -32,3 +32,4 @@
 /Users/neuerbenutzer/RiderProjects/Micro.RoomLink/Micro.RoomLink.APIGateway/obj/Debug/net8.0/Micro.RoomLink.APIGateway.pdb
 /Users/neuerbenutzer/RiderProjects/Micro.RoomLink/Micro.RoomLink.APIGateway/obj/Debug/net8.0/Micro.RoomLink.APIGateway.genruntimeconfig.cache
 /Users/neuerbenutzer/RiderProjects/Micro.RoomLink/Micro.RoomLink.APIGateway/obj/Debug/net8.0/ref/Micro.RoomLink.APIGateway.dll
+/Users/neuerbenutzer/RiderProjects/Micro.RoomLink/Micro.RoomLink.APIGateway/obj/Debug/net8.0/Micro.RoomLink.APIGateway.sourcelink.json

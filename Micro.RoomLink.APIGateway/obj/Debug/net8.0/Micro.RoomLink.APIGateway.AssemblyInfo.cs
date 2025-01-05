@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Micro.RoomLink.APIGateway")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+860fbf60b1866e5daf8d173252d8991d0238b385")]
 [assembly: System.Reflection.AssemblyProductAttribute("Micro.RoomLink.APIGateway")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Micro.RoomLink.APIGateway")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
